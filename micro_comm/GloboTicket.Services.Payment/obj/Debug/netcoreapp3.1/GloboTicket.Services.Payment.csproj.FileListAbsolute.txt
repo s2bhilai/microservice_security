@@ -1,0 +1,120 @@
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\GloboTicket.Services.Payment.exe
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\GloboTicket.Services.Payment.deps.json
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\GloboTicket.Services.Payment.runtimeconfig.json
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\GloboTicket.Services.Payment.runtimeconfig.dev.json
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\GloboTicket.Services.Payment.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\GloboTicket.Services.Payment.pdb
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\GloboTicket.Integration.Messages.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\GloboTicket.Integration.MessagingBus.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\GloboTicket.Integration.MessagingBus.pdb
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\GloboTicket.Integration.Messages.pdb
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\GloboTicket.Services.Payment.csprojAssemblyReference.cache
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\GloboTicket.Services.Payment.AssemblyInfoInputs.cache
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\GloboTicket.Services.Payment.AssemblyInfo.cs
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\GloboTicket.Services.Payment.csproj.CoreCompileInputs.cache
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\GloboTicket.Services.Payment.MvcApplicationPartsAssemblyInfo.cache
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\GloboTicket.Services.Payment.RazorTargetAssemblyInfo.cache
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\GloboTicket.Services.Payment.csproj.CopyComplete
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\staticwebassets\GloboTicket.Services.Payment.StaticWebAssets.Manifest.cache
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\staticwebassets\GloboTicket.Services.Payment.StaticWebAssets.xml
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\GloboTicket.Services.Payment.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\GloboTicket.Services.Payment.pdb
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\GloboTicket.Services.Payment.genruntimeconfig.cache
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\GloboTicket.Services.Payment.exe
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\GloboTicket.Services.Payment.deps.json
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\GloboTicket.Services.Payment.runtimeconfig.json
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\GloboTicket.Services.Payment.runtimeconfig.dev.json
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\GloboTicket.Services.Payment.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\GloboTicket.Services.Payment.pdb
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\GloboTicket.Integration.Messages.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\GloboTicket.Integration.MessagingBus.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\GloboTicket.Integration.MessagingBus.pdb
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\bin\Debug\netcoreapp3.1\GloboTicket.Integration.Messages.pdb
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\GloboTicket.Services.Payment.csprojAssemblyReference.cache
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\GloboTicket.Services.Payment.AssemblyInfoInputs.cache
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\GloboTicket.Services.Payment.AssemblyInfo.cs
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\GloboTicket.Services.Payment.csproj.CoreCompileInputs.cache
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\GloboTicket.Services.Payment.MvcApplicationPartsAssemblyInfo.cache
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\staticwebassets\GloboTicket.Services.Payment.StaticWebAssets.Manifest.cache
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\staticwebassets\GloboTicket.Services.Payment.StaticWebAssets.xml
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\scopedcss\bundle\GloboTicket.Services.Payment.styles.css
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\GloboTicket.Services.Payment.RazorTargetAssemblyInfo.cache
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\GloboTicket.Services.Payment.csproj.CopyComplete
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\GloboTicket.Services.Payment.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\GloboTicket.Services.Payment.pdb
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Payment\obj\Debug\netcoreapp3.1\GloboTicket.Services.Payment.genruntimeconfig.cache

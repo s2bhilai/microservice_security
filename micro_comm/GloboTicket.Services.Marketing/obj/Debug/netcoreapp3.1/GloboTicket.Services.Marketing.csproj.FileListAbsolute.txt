@@ -1,0 +1,122 @@
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.exe
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.deps.json
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.runtimeconfig.json
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.runtimeconfig.dev.json
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.pdb
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.csprojAssemblyReference.cache
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.AssemblyInfoInputs.cache
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.AssemblyInfo.cs
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.csproj.CoreCompileInputs.cache
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.MvcApplicationPartsAssemblyInfo.cs
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.MvcApplicationPartsAssemblyInfo.cache
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.RazorTargetAssemblyInfo.cache
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.csproj.CopyComplete
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\staticwebassets\GloboTicket.Services.Marketing.StaticWebAssets.Manifest.cache
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\staticwebassets\GloboTicket.Services.Marketing.StaticWebAssets.xml
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.pdb
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.genruntimeconfig.cache
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.exe
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.deps.json
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.runtimeconfig.json
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.runtimeconfig.dev.json
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.pdb
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.csprojAssemblyReference.cache
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.AssemblyInfoInputs.cache
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.AssemblyInfo.cs
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.csproj.CoreCompileInputs.cache
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.MvcApplicationPartsAssemblyInfo.cs
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.MvcApplicationPartsAssemblyInfo.cache
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\staticwebassets\GloboTicket.Services.Marketing.StaticWebAssets.Manifest.cache
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\staticwebassets\GloboTicket.Services.Marketing.StaticWebAssets.xml
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\scopedcss\bundle\GloboTicket.Services.Marketing.styles.css
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.RazorTargetAssemblyInfo.cache
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.csproj.CopyComplete
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.pdb
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Services.Marketing\obj\Debug\netcoreapp3.1\GloboTicket.Services.Marketing.genruntimeconfig.cache

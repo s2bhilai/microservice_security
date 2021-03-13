@@ -1,0 +1,18 @@
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Integration.Messages\bin\Debug\netstandard2.0\GloboTicket.Integration.Messages.deps.json
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Integration.Messages\bin\Debug\netstandard2.0\GloboTicket.Integration.Messages.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Integration.Messages\bin\Debug\netstandard2.0\GloboTicket.Integration.Messages.pdb
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Integration.Messages\obj\Debug\netstandard2.0\GloboTicket.Integration.Messages.csprojAssemblyReference.cache
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Integration.Messages\obj\Debug\netstandard2.0\GloboTicket.Integration.Messages.AssemblyInfoInputs.cache
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Integration.Messages\obj\Debug\netstandard2.0\GloboTicket.Integration.Messages.AssemblyInfo.cs
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Integration.Messages\obj\Debug\netstandard2.0\GloboTicket.Integration.Messages.csproj.CoreCompileInputs.cache
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Integration.Messages\obj\Debug\netstandard2.0\GloboTicket.Integration.Messages.dll
+D:\Tech\Microservices_Comm\microservices-communication-asp-dot-net-core\03\demos\Sync communication\GloboTicket.Integration.Messages\obj\Debug\netstandard2.0\GloboTicket.Integration.Messages.pdb
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Integration.Messages\bin\Debug\netstandard2.0\GloboTicket.Integration.Messages.deps.json
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Integration.Messages\bin\Debug\netstandard2.0\GloboTicket.Integration.Messages.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Integration.Messages\bin\Debug\netstandard2.0\GloboTicket.Integration.Messages.pdb
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Integration.Messages\obj\Debug\netstandard2.0\GloboTicket.Integration.Messages.csprojAssemblyReference.cache
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Integration.Messages\obj\Debug\netstandard2.0\GloboTicket.Integration.Messages.AssemblyInfoInputs.cache
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Integration.Messages\obj\Debug\netstandard2.0\GloboTicket.Integration.Messages.AssemblyInfo.cs
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Integration.Messages\obj\Debug\netstandard2.0\GloboTicket.Integration.Messages.csproj.CoreCompileInputs.cache
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Integration.Messages\obj\Debug\netstandard2.0\GloboTicket.Integration.Messages.dll
+D:\Tech\Microservices_Comm\My_Working_Code_SecureMicroservices\micro_comm\GloboTicket.Integration.Messages\obj\Debug\netstandard2.0\GloboTicket.Integration.Messages.pdb
